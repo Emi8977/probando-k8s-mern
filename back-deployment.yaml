@@ -14,7 +14,7 @@ spec:
     spec:  # 👈 este estaba mal indentado
       containers:
         - name: backend
-          image: emi8977/back1:latest
+          image: emi8977/back2:latest
           ports:
             - containerPort: 3001
 
