@@ -16,5 +16,5 @@ spec:
         - name: backend
           image: emi8977/back3:latest
           ports:
-            - containerPort: 3001
+            - containerPort: 3000 #tiene que ser el port del env del servidor.js del backend
 
