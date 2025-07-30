@@ -7,5 +7,5 @@ spec:
     spec:
       containers:
         - name: frontend
-          image: emi8977/frontend-mern-commonjs:REPLACEME
+          image: emi8977/frontend-mern-commonjs:dev-2d84993
 
