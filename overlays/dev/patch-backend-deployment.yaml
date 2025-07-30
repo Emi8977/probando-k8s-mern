@@ -7,5 +7,5 @@ spec:
     spec:
       containers:
         - name: backend
-          image: backend-mern-commonjs:REPLACEME
+          image: emi8977/backend-mern-commonjs:REPLACEME
 
